@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div id="header"  style="margin-left: 50">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2iJfbCw0UIZvgDj3kC_U6O&ust=1697184803207000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiT_pyI8IEDFQAAAAAdAAAAABAe)" width="100"/>
+
 </div>
 
 I'm currently working at Modesolutions Company in the position of Programmer.
