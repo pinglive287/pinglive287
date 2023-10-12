@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm currently working at Modesolutions Company in the position of Programmer.
 
-* 🌍  I'm based in I'm based in Kangchanaburi, Thailand
+* 🌍  I'm based in Kangchanaburi, Thailand
 
 ### Skills
 
