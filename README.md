@@ -5,7 +5,7 @@ Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-I'm currently working at Modesolutions Company in the position of Programmer.
+I'm currently working at WP Energy Public Company Limited in the position of Programmer.
 
 * 🌍  I'm based in Kanchanaburi, Thailand
 
