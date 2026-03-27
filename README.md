@@ -11,4 +11,4 @@ I'm currently working at WP Energy Public Company Limited in the position of Pro
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,react,nextjs,nodejs,flutter,mysql,mongodb,git,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,php,laravel,dart,react,threejs,nextjs,nodejs,express,sequelize,flutter,mysql,postgres,mongodb,redis,bootstrap,tailwind,npm,docker,git,vercel,prisma)
