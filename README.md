@@ -11,6 +11,4 @@ I'm currently working at WP Energy Public Company Limited in the position of Pro
 
 ### Skills
 
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
